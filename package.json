@@ -1,0 +1,20 @@
+{
+  "name": "Stiker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wabot-stiker"
+  ],
+  "author": "NatgX",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.4.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "node-webpmux": "^3.1.1",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
